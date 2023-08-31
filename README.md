@@ -14,4 +14,5 @@ This has implementations in Python, to query ads from Facebook, Google and TikTo
 
 ## Contributions
 
-Contributions are welcome! For bug reports or requests please [submit an issue](https://github.com/dilshankarunarathne/filtered-ads).
+Contributions are welcome! For bug reports or requests please 
+[submit an issue](https://github.com/dilshankarunarathne/filtered-ads).
