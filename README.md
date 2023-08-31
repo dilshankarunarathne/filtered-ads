@@ -17,5 +17,5 @@ This has implementations in Python, to query ads from Facebook, Google and TikTo
 ### Requirements
 
 - Python 3.6+
-- [Facebook Ads API](
+- [Facebook Ads API](https://developers.facebook.com/docs/marketing-apis/)
 - [Google Ads API](https://developers.google.com/google-ads/api/docs/start)
