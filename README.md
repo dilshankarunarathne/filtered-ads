@@ -32,3 +32,4 @@ pip install ad-topic-recommender
 ### Facebook
 
 ```python
+from ad_topic_recommender import FacebookAds
