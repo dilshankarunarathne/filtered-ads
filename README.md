@@ -17,4 +17,5 @@ and wants to find ads related to that topic. The system is designed to be used b
 in a specific topic and wants to find ads related to that topic. The system is designed to be used by a 
 user who is interested in a specific topic and wants to find ads related to that topic. The system is 
 designed to be used by a user who is interested in a specific topic and wants to find ads related to that 
-topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic.
+topic. The system is designed to be used by a user who is interested in a specific topic and wants to find 
+ads related to that topic.
