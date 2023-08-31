@@ -9,6 +9,5 @@
 This project is a proof of concept for a recommender system that queries ads based on a specific interest, 
 using various social networks and cloud APIs. The system is designed to be used by a user who is interested 
 in a specific topic and wants to find ads related to that topic. The system is designed to be used by a 
-user who is interested in a specific topic 
-and wants to find ads related to that topic. The system is designed to be used by a user who is interested 
+user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested 
 in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic. The system is designed to be used by a user who is interested in a specific topic and wants to find ads related to that topic.
