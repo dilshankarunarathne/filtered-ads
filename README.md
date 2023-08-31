@@ -28,3 +28,7 @@ pip install ad-topic-recommender
 ```
 
 ## Usage
+
+### Facebook
+
+```python
