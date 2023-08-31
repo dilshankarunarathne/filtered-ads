@@ -1,4 +1,5 @@
 import facebookads
+from collections.abc import MutableMapping
 
 # Create an ad account object.
 ad_account = facebookads.AdAccount('464969464007233')
