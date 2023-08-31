@@ -12,29 +12,3 @@ in a specific topic and wants to find ads related to that topic.
 
 This has implementations in Python, to query ads from Facebook, Google and TikTok.
 
-## Installation
-
-### Requirements
-
-- Python 3.6+
-- [Facebook Ads API](https://developers.facebook.com/docs/marketing-apis/)
-- [Google Ads API](https://developers.google.com/google-ads/api/docs/start)
-- [TikTok Ads API](https://ads.tiktok.com/marketing_api/docs?rid=1x9q2xq3x1&id=1678521271494146)
-
-### Install
-
-```bash
-pip install ad-topic-recommender
-```
-
-## Usage
-
-### Facebook
-
-```python
-from ad_topic_recommender import FacebookAds
-```
-
-#### Authentication
-
-```python
