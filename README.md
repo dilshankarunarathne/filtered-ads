@@ -1,4 +1,4 @@
-# filtered-ads
+# Filtered Ads Recommender
  Querying ads based on a specific interest, using various social networks and cloud APIs.
 
 [![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
