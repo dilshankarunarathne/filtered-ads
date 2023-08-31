@@ -13,3 +13,5 @@ in a specific topic and wants to find ads related to that topic.
 This has implementations in Python, to query ads from Facebook, Google and TikTok.
 
 ## Installation
+
+### Requirements
