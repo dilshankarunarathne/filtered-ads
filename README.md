@@ -26,3 +26,5 @@ This has implementations in Python, to query ads from Facebook, Google and TikTo
 ```bash
 pip install ad-topic-recommender
 ```
+
+## Usage
