@@ -1,7 +1,7 @@
 import facebookads
 
 # Create an ad account object.
-ad_account = facebookads.AdAccount('YOUR_AD_ACCOUNT_ID')
+ad_account = facebookads.AdAccount('464969464007233')
 
 # Create a request object.
 request = facebookads.AdSetsRequest(
